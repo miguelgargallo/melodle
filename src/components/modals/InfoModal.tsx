@@ -64,7 +64,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
           href="https://github.com/miguelgargallo/melodle"
           className="underline font-bold"
         >
-          check out the code here
+          consulte el código aquí
         </a>{' '}
       </p>
     </BaseModal>
