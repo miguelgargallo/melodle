@@ -35,7 +35,7 @@ describe('getGuessStatuses', () => {
       'correct',
     ])
 
-    // https://github.com/cwackerfuss/react-wordle/issues/456
+    // https://github.com/miguelgargallo/melodle
     expect(getGuessStatuses('BOSSY', 'SASSY')).toEqual([
       'absent',
       'absent',
