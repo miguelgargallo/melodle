@@ -18,21 +18,21 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         <Cell
           isRevealing={true}
           isCompleted={true}
-          value="W"
+          value="M"
           status="correct"
         />
         <Cell value="E" />
-        <Cell value="A" />
-        <Cell value="R" />
-        <Cell value="Y" />
+        <Cell value="L" />
+        <Cell value="O" />
+        <Cell value="S" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
         La letra W está en la palabra y en el lugar correcto.
       </p>
 
       <div className="flex justify-center mb-1 mt-4">
-        <Cell value="P" />
-        <Cell value="I" />
+        <Cell value="C" />
+        <Cell value="U" />
         <Cell
           isRevealing={true}
           isCompleted={true}
@@ -40,18 +40,18 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
           status="present"
         />
         <Cell value="O" />
-        <Cell value="T" />
+        <Cell value="S" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
         La letra L está en la palabra pero en el lugar equivocado.
       </p>
 
       <div className="flex justify-center mb-1 mt-4">
-        <Cell value="V" />
-        <Cell value="A" />
+        <Cell value="M" />
+        <Cell value="I" />
         <Cell value="G" />
         <Cell isRevealing={true} isCompleted={true} value="U" status="absent" />
-        <Cell value="E" />
+        <Cell value="U" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
         La letra U no está en la palabra en ningún lugar.
