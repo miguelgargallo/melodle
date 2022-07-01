@@ -1,128 +1,62 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-## Our Pledge
+- [Welcome Developers](#welcome-developers)
+- [Contributor Code of Conduct v1.4](#contributor-code-of-conduct-v14)
+  - [Examples of behavior](#examples-of-behavior-that-contributes-to-creating-a-positive-environment-include)
+  - [Examples of unacceptable behavior](#examples-of-unacceptable-behavior-by-participants-include)
+- [Project maintainers](#project-maintainers)
+- [Code of Conduct applications](#code-of-conduct-applications)
+- [Behavior for moderation](#behavior-for-moderation)
+- [Moderation action](#moderation-action)
+- [About this policy](#about-this-policy)
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+## Welcome Developers
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+To be a truly great community, Swift.org needs to welcome developers from all walks of life, with different backgrounds, and with a wide range of experience. A diverse and friendly community will have more great ideas, more unique perspectives, and produce more great code. We will work diligently to make the Swift community welcoming to everyone.
 
-## Our Standards
+To give clarity of what is expected of our members, Swift.org is based on the code of conduct defined by contributor-covenant.org. This document is used across many open source communities, and we think it articulates our values well.
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+## Contributor Code of Conduct v1.4
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-Examples of unacceptable behavior include:
+### Examples of behavior that contributes to creating a positive environment include:
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+- Using welcoming and inclusive language (e.g., prefer non-gendered words like “folks” to “guys”, non-ableist words like “soundness check” to “sanity check”, etc.).
+- Being respectful of differing viewpoints and experiences.
+- Gracefully accepting constructive criticism.
+- Focusing on what is best for the community.
+- Showing empathy towards other community members.
 
-## Enforcement Responsibilities
+### Examples of unacceptable behavior by participants include:
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+- The use of sexualized language or imagery and unwelcome sexual attention or advances.
+- Trolling, insulting/derogatory comments, and personal or political attacks.
+- Public or private harassment.
+- Publishing others’ private information, such as a physical or electronic address, without explicit permission.
+- Other conduct which could reasonably be considered inappropriate in a professional setting.
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-## Scope
+## Project maintainers
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
-## Enforcement
+## Code of Conduct applications
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-cwackerfuss@gmail.com.
-All complaints will be reviewed and investigated promptly and fairly.
+This Code of Conduct applies within all project spaces managed by Swift.org, including (but not limited to) source code repositories, bug trackers, web sites, documentation, and online forums. It also applies when an individual is representing the project or its community in public spaces. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+## Behavior for moderation
 
-## Enforcement Guidelines
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a member of the Swift Core Team or by flagging the behavior for moderation (e.g., in the Forums), whether you are the target of that behavior or not. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. Maintainers are obligated to maintain confidentiality with regard to the reporter of an incident. The site of the disputed behavior is usually not an acceptable place to discuss moderation decisions, and moderators may move or remove any such discussion.
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+## Moderation action
 
-### 1. Correction
+Project maintainers are held to a higher standard, and project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project’s leadership. If you disagree with a moderation action, you can appeal to the Core Team (or individual Core Team members) privately.
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+## About this policy
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+This policy is adapted from the Contributor Code of Conduct version 1.4.
+The code of conduct for this project can be found at https://swift.org/code-of-conduct.
 
-### 2. Warning
-
-**Community Impact**: A violation through a single incident or series
-of actions.
-
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
-
-### 3. Temporary Ban
-
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
-
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
-
-### 4. Permanent Ban
-
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
-
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
-
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
-
-[homepage]: https://www.contributor-covenant.org
-
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+<!-- Copyright (c) 2021 Apple Inc and the Swift Project authors. All Rights Reserved. -->
