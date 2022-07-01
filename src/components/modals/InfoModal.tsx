@@ -51,7 +51,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         <Cell value="I" />
         <Cell value="G" />
         <Cell isRevealing={true} isCompleted={true} value="U" status="absent" />
-        <Cell value="U" />
+        <Cell value="L" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
         La letra U no está en la palabra en ningún lugar.
