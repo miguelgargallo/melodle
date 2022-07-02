@@ -11,6 +11,7 @@ export const WORDS = [
   'lucas',
   'music',
   'ortos',
+  'miguel',
   'pedro',
   'penes',
   'pride',
