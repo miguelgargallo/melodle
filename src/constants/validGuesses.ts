@@ -22,7 +22,6 @@ export const VALID_GUESSES = [
   'tetis',
   'tonta',
   'aaaaa',
-  'aaaaa',
   // French added by Miguel Gargallo
   'abats',
   'abdos',
