@@ -12,7 +12,7 @@ export const WORDS = [
   'lucas',
   'music',
   'ortos',
-  'miguel',
+  'aaaaa',
   'pedro',
   'penes',
   'pride',

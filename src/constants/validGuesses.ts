@@ -13,7 +13,6 @@ export const VALID_GUESSES = [
   'lucas',
   'music',
   'ortos',
-  'miguel',
   'pedro',
   'penes',
   'pride',
@@ -22,6 +21,8 @@ export const VALID_GUESSES = [
   'sonia',
   'tetis',
   'tonta',
+  'aaaaa',
+  'aaaaa',
   // French added by Miguel Gargallo
   'abats',
   'abdos',
