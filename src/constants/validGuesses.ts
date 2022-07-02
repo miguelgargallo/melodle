@@ -22,7 +22,14 @@ export const VALID_GUESSES = [
   'tetis',
   'tonta',
   'aaaaa',
-  // French added by Miguel Gargallo
+  // Combinaciones ganadoras by Miguel Gargallo
+  'turia',
+  'coles',
+  'judia',
+  'murio',
+  'ebola',
+  'covid',
+    // French added by Miguel Gargallo
   'abats',
   'abdos',
   'abima',
