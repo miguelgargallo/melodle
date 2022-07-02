@@ -1,7 +1,5 @@
 # Melodle
 
-- [This is an unusual fork](#this-is-an-unusual-fork)
-
 - [Welcome Developers](#welcome-developers)
 - [Contributor Code of Conduct v1.4](#contributor-code-of-conduct-v14)
   - [Examples of behavior](#examples-of-behavior-that-contributes-to-creating-a-positive-environment-include)
