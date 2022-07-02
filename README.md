@@ -11,7 +11,6 @@
 - [Behavior for moderation](#behavior-for-moderation)
 - [Moderation action](#moderation-action)
 - [About this policy](#about-this-policy)
-- [This is an unusual fork](#this-is-an-unusual-fork)
 
 ## Welcome Developers
 
