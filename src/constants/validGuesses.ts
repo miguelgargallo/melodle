@@ -24,6 +24,7 @@
   'sonia',
   'tetis',
   'tonta',
+  'lgbtq',
   // Combinaciones que faltan by Miguel Gargallo
   'sinpa',
   'sofia',
