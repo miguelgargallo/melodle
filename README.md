@@ -1,3 +1,5 @@
+<!-- Miguel Gargallo 2022 (c) All Rights Reserved. -->
+
 # Melodle
 
 - [Welcome Developers](#welcome-developers)

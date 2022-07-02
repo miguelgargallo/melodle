@@ -1,3 +1,4 @@
+// Miguel Gargallo 2022 (c) All Rights Reserved.
 import { CharStatus } from '../../lib/statuses'
 import classnames from 'classnames'
 import { REVEAL_TIME_MS } from '../../constants/settings'

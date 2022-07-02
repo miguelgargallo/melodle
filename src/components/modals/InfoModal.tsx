@@ -1,3 +1,4 @@
+// Miguel Gargallo 2022 (c) All Rights Reserved.
 import { Cell } from '../grid/Cell'
 import { BaseModal } from './BaseModal'
 

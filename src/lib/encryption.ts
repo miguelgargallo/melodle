@@ -1,3 +1,4 @@
+// Miguel Gargallo 2022 (c) All Rights Reserved.
 import Blowfish from 'egoroof-blowfish'
 import { BLOWFISH_IV, BLOWFISH_KEY } from '../constants/settings'
 

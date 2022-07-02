@@ -1,3 +1,4 @@
+// Miguel Gargallo 2022 (c) All Rights Reserved.
 import { unicodeSplit } from './words'
 
 export type CharStatus = 'absent' | 'present' | 'correct'

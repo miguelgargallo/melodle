@@ -1,3 +1,4 @@
+// Miguel Gargallo 2022 (c) All Rights Reserved.
 import { MAX_CHALLENGES } from '../constants/settings'
 import {
   GameStats,

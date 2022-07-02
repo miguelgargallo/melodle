@@ -1,3 +1,4 @@
+// Miguel Gargallo 2022 (c) All Rights Reserved.
 import Countdown from 'react-countdown'
 import { ShareIcon } from '@heroicons/react/outline'
 import { StatBar } from '../stats/StatBar'

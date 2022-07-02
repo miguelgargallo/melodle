@@ -1,3 +1,4 @@
+# Miguel Gargallo 2022 (c) All Rights Reserved.
 #!/bin/sh
 
 # Strict shell settings.

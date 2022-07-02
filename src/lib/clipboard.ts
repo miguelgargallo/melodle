@@ -1,3 +1,4 @@
+// Miguel Gargallo 2022 (c) All Rights Reserved.
 const fallbackCopyTextToClipboard = (text: string) => {
   var textArea = document.createElement('textarea')
   textArea.value = text

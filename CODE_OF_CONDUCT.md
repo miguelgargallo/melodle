@@ -59,4 +59,4 @@ Project maintainers are held to a higher standard, and project maintainers who d
 This policy is adapted from the Contributor Code of Conduct version 1.4.
 The code of conduct for this project can be found at https://swift.org/code-of-conduct.
 
-<!-- Copyright (c) 2021 Apple Inc and the Swift Project authors. All Rights Reserved. -->
+<!-- Copyright (c) 2022 Miguel Gargallo, Apple and the Swift Project authors. All Rights Reserved. -->

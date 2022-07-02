@@ -1,3 +1,4 @@
+// Miguel Gargallo 2022 (c) All Rights Reserved.
 import { getGuessStatuses } from './statuses'
 
 const mockSolutionGetter = jest.fn()

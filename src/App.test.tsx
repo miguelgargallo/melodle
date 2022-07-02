@@ -1,3 +1,4 @@
+// Miguel Gargallo 2022 (c) All Rights Reserved.
 import React from 'react'
 import { render, screen } from '@testing-library/react'
 import App from './App'

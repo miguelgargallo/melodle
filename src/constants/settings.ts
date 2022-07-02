@@ -1,3 +1,4 @@
+// Miguel Gargallo 2022 (c) All Rights Reserved.
 export const MAX_CHALLENGES = 6
 export const ALERT_TIME_MS = 2000
 export const REVEAL_TIME_MS = 350

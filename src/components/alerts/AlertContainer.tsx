@@ -1,3 +1,4 @@
+// Miguel Gargallo 2022 (c) All Rights Reserved.
 import { Alert } from './Alert'
 import { useAlert } from '../../context/AlertContext'
 

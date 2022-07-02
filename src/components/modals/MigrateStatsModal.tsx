@@ -1,3 +1,4 @@
+// Miguel Gargallo 2022 (c) All Rights Reserved.
 import { BaseModal } from './BaseModal'
 import { useState } from 'react'
 import { GameStats, StoredGameState } from '../../lib/localStorage'

@@ -1,3 +1,4 @@
+// Miguel Gargallo 2022 (c) All Rights Reserved.
 import { UAParser } from 'ua-parser-js'
 
 const inAppBrowserNames = [

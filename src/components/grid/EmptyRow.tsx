@@ -1,3 +1,4 @@
+// Miguel Gargallo 2022 (c) All Rights Reserved.
 import { solution } from '../../lib/words'
 import { Cell } from './Cell'
 

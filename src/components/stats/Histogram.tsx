@@ -1,3 +1,4 @@
+// Miguel Gargallo 2022 (c) All Rights Reserved.
 import { GameStats } from '../../lib/localStorage'
 import { Progress } from './Progress'
 
