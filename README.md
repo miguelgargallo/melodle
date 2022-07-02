@@ -62,8 +62,4 @@ Project maintainers are held to a higher standard, and project maintainers who d
 This policy is adapted from the Contributor Code of Conduct version 1.4.
 The code of conduct for this project can be found at https://swift.org/code-of-conduct.
 
-## This is an unusual fork
-
-To be honest, this is a fork ok https://github.com/cwackerfuss/react-wordle, but due to the content is stream online on Twitch, to prevent bans or harms to the streamers, we cloned the project and modify the content all time locally, to prevent issues. Thanks to https://github.com/cwackerfuss to develop that.
-
 <!-- Copyright (c) 2021 Apple Inc and the Swift Project authors. All Rights Reserved. -->
