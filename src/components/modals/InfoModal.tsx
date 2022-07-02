@@ -61,7 +61,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         Esta es una versión de código abierto del juego de adivinar palabras que 
         todos conocemos y anamos -{' '}
         <a
-          href="https://github.com/miguelgargallo/melodle"
+          href="https://miguelon.net"
           className="underline font-bold"
         >
           consulte el código aquí
