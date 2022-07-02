@@ -1,5 +1,6 @@
 // Miguel Gargallo 2022 (c) All Rights Reserved.
 export const VALID_GUESSES = [
+    // Melo Community added by the community and Miguel Gargallo
   'barna',
   'boobs',
   'booty',
@@ -22,7 +23,7 @@ export const VALID_GUESSES = [
   'tetis',
   'tonta',
   // French added by Miguel Gargallo
-    'abats',
+  'abats',
   'abdos',
   'abima',
   'abime',
