@@ -1,5 +1,6 @@
 // Miguel Gargallo 2022 (c) All Rights Reserved.
 export const WORDS = [
+  'aaaaa',
   'barna',
   'boobs',
   'booty',
@@ -12,13 +13,40 @@ export const WORDS = [
   'lucas',
   'music',
   'ortos',
-  'aaaaa',
+  'pedos',
   'pedro',
   'penes',
+  'penis',
   'pride',
   'prime',
   'pussy',
   'sonia',
   'tetis',
   'tonta',
+  // Combinaciones que faltan by Miguel Gargallo
+  'sinpa',
+  'sofia',
+  // Combinaciones ganadoras by Miguel Gargallo
+  'turia',
+  'celos',
+  'coles',
+  'judia',
+  'murio',
+  'ebola',
+  'covid',
+  // Combinaciones de la hostia by Miguel Gargallo
+  'ellie',
+  'riley',
+  'jesse',
+  'chloe',
+  'croft',
+  // Famosos by Miguel Gargallo
+  'nathy',
+  'saoko',
+  // Disney+ by Miguel Gargallo
+  'simba',
+  'mulan',
+  'mulan',
+  // Cosas random válidas by Miguel Gargallo
+  'belen',
 ]
