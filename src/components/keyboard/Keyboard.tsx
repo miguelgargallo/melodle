@@ -96,7 +96,7 @@ export const Keyboard = ({
         ))}
       </div>
       <div className="flex justify-center">
-        {['Z', 'X', 'C', 'V', 'B', 'N', 'M', 'Ç', '<div class="tUoK3c uTqStd" jscontroller="SRqpxc" data-darkmode="" data-spotlight-effect="light" jsaction="rcuQ6b:npT2md"><div jscontroller="sgF1mc" jsdata="uADt9e;_;AdQ35U" jsaction="iZASk:nb0jFc;mH09Ue:nb0jFc;BAVhqc:nb0jFc;khYtae:nb0jFc;PzAzEc:nb0jFc"><img jsname="fpF2df" class="smm4bb" src="https://www.google.com/logos/fnbx/pride/icon_dm.gif" alt="" aria-hidden="true" role="button" tabindex="-1" jsaction="uG8GZb" data-atf="4" data-frt="0"><div jsname="pO2gXe" data-ved="2ahUKEwjUkom45dz4AhXaD1kFHbwMDQoQ5N8HKAJ6BAhUEAw"><div jscontroller="x4odoe" data-is-darkmode="" jsdata="picFee;_;AdQ35k" jsaction="rcuQ6b:npT2md;PYoRde:i4X6oc;TMu8m:tTT8Tc;pyo0eb:tTT8Tc;ZnQkLe:MYO7qe" data-ved="2ahUKEwjUkom45dz4AhXaD1kFHbwMDQoQ0uAHegQIVBAN"></div></div></div><div jsname="YZTuq" style="display:none" data-ved="2ahUKEwjUkom45dz4AhXaD1kFHbwMDQoQ8LcHKAN6BAhUEA4"></div></div>'].map((key) => (
+        {['Z', 'X', 'C', 'V', 'B', 'N', 'M', 'Ç', ''<img jsname="fpF2df" class="smm4bb" src="https://www.google.com/logos/fnbx/pride/icon_dm.gif">''].map((key) => (
           <Key
             value={key}
             key={key}
