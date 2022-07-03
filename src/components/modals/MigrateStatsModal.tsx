@@ -31,7 +31,7 @@ export const MigrateStatsModal = ({ isOpen, handleClose }: Props) => {
       <div className="w-full columns-3 gap-0">
         <div className="flex items-center mb-4">
           <p className="flex mb-0 text-sm font-medium text-gray-900 dark:text-gray-300">
-            Copia para exportar, pega para importar:
+            Opciones:
           </p>
         </div>
         <div className="flex items-center mb-4">
@@ -49,7 +49,7 @@ export const MigrateStatsModal = ({ isOpen, handleClose }: Props) => {
             htmlFor="emigrate-radio-button"
             className="ml-2 text-sm font-medium text-gray-900 dark:text-gray-300"
           >
-            Exportar ➡️
+            Copia
           </label>
         </div>
         <div className="flex items-center">
@@ -67,7 +67,7 @@ export const MigrateStatsModal = ({ isOpen, handleClose }: Props) => {
             htmlFor="immigrate-radio-button"
             className="ml-2 text-sm font-medium text-gray-900 dark:text-gray-300"
           >
-            Importar ⬅️
+            Pega
           </label>
         </div>
       </div>

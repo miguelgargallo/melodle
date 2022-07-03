@@ -22,7 +22,7 @@ export const EmigratePanel = () => {
 
   const copyEmigrationCodeToClipboard = () => {
     copyTextToClipboard(emigrationCode)
-    setCopyButtonText('Copied!')
+    setCopyButtonText('Copiado!')
     setIsCopyButtonEnabled(false)
   }
 
@@ -32,7 +32,7 @@ export const EmigratePanel = () => {
         htmlFor="message"
         className="text-left block mb-2 text-sm font-medium text-gray-900 dark:text-gray-400"
       >
-        Copy your migration code:
+        Copia tu codigo para exportar:
       </label>
       <textarea
         id="emigration-code"
