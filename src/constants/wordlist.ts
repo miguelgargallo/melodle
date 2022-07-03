@@ -22,7 +22,6 @@ export const WORDS = [
   // Letra H
   // Letra I
   // Letra J
-  'jesse',
   // Letra K
   // Letra L
   'lesbi',
@@ -44,6 +43,7 @@ export const WORDS = [
   'prime',
   'pussy',
   // Letra Q
+  'queer',
   // Letra R
   'riley',
   // Letra S
@@ -59,4 +59,5 @@ export const WORDS = [
   // Letra X
   // Letra Y
   // Letra Z
+  'zorra',
 ]
