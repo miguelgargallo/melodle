@@ -1,18 +1,41 @@
 // Miguel Gargallo 2022 (c) All Rights Reserved.
 export const WORDS = [
+  // Letra A
   'aaaaa',
+  // Letra B
   'barna',
   'boobs',
   'booty',
+  // Letra C
   'coños',
   'culos',
+  'chloe',
+  'croft',
+  // Letra D
   'dicks',
+  // Letra E
+  'ellie',
+  // Letra F
+  // Letra G
   'gatos',
   'grito',
+  // Letra H
+  // Letra I
+  // Letra J
+  'jesse',
+  // Letra K
+  // Letra L
   'lesbi',
   'lucas',
+  'lgbtq',
+  // Letra M
   'music',
+  'mulan',
+  // Letra N
+  // Letra Ñ
+  // Letra O
   'ortos',
+  // Letra P
   'pedos',
   'pedro',
   'penes',
@@ -20,34 +43,20 @@ export const WORDS = [
   'pride',
   'prime',
   'pussy',
+  // Letra Q
+  // Letra R
+  'riley',
+  // Letra S
   'sonia',
+  'sinpa',
+  'simba',
+  // Letra T
   'tetis',
   'tonta',
-  'lgbtq',
-  // Combinaciones que faltan by Miguel Gargallo
-  'sinpa',
-  'sofia',
-  // Combinaciones ganadoras by Miguel Gargallo
-  'turia',
-  'celos',
-  'coles',
-  'judia',
-  'murio',
-  'ebola',
-  'covid',
-  // Combinaciones de la hostia by Miguel Gargallo
-  'ellie',
-  'riley',
-  'jesse',
-  'chloe',
-  'croft',
-  // Famosos by Miguel Gargallo
-  'nathy',
-  'saoko',
-  // Disney+ by Miguel Gargallo
-  'simba',
-  'mulan',
-  'mulan',
-  // Cosas random válidas by Miguel Gargallo
-  'belen',
+  // Letra U
+  // Letra V
+  // Letra W
+  // Letra X
+  // Letra Y
+  // Letra Z
 ]
