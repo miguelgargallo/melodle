@@ -1,19 +1,84 @@
   // Miguel Gargallo 2022 (c) All Rights Reserved
   // Melo Community added by the community and Miguel Gargallo
   export const VALID_GUESSES = [
+  // Palabras admitidas
+  // Letra A
+  // Letra B
+  'barbe',
+  'belen',
+  // Letra C
+  'celos',
+  'coles',
+  'covid',
+  // Letra D
+  // Letra E
+  'ebola',
+  // Letra F
+  // Letra G
+  // Letra H
+  // Letra I
+  // Letra J
+  'judia',
+  'jesse',
+  // Letra K
+  'koito',
+  // Letra L
+  // Letra M
+  'murio',
+  // Letra N
+  'nathy',
+  // Letra Ñ
+  // Letra O
+  // Letra P
+  // Letra Q
+  // Letra R
+  // Letra S
+  'sofia',
+  // Letra T
+  'turia',
+  // Letra U
+  'uurgh',
+  // Letra V
+  // Letra W
+  // Letra X
+  // Letra Y
+  // Letra Z
+  // Respuestas posibles
+  // Letra A
   'aaaaa',
+  // Letra B
   'barna',
   'boobs',
   'booty',
+  // Letra C
   'coños',
   'culos',
+  'chloe',
+  'croft',
+  // Letra D
   'dicks',
+  // Letra E
+  'ellie',
+  // Letra F
+  // Letra G
   'gatos',
   'grito',
+  // Letra H
+  // Letra I
+  // Letra J
+  // Letra K
+  // Letra L
   'lesbi',
   'lucas',
+  'lgbtq',
+  // Letra M
   'music',
+  'mulan',
+  // Letra N
+  // Letra Ñ
+  // Letra O
   'ortos',
+  // Letra P
   'pedos',
   'pedro',
   'penes',
@@ -21,40 +86,25 @@
   'pride',
   'prime',
   'pussy',
+  // Letra Q
+  'queer',
+  // Letra R
+  'riley',
+  // Letra S
+  'saoko',
   'sonia',
+  'sinpa',
+  'simba',
+  // Letra T
   'tetis',
   'tonta',
-  'lgbtq',
-  // Combinaciones que faltan by Miguel Gargallo
-  'sinpa',
-  'sofia',
-  // Combinaciones ganadoras by Miguel Gargallo
-  'turia',
-  'celos',
-  'coles',
-  'judia',
-  'murio',
-  'ebola',
-  'covid',
-  // Combinaciones de la hostia by Miguel Gargallo
-  'ellie',
-  'riley',
-  'jesse',
-  'chloe',
-  'croft',
-  // Famosos by Miguel Gargallo
-  'nathy',
-  'saoko',
-  // Disney+ by Miguel Gargallo
-  'simba',
-  'mulan',
-  'mulan',
-  // Cosas random válidas by Miguel Gargallo
-  'belen',
-  // No añadir a la lista de resultados, paridas by Miguel Gargallo
-  'koito',
-  'uurgh',
-  'barbe',
+  // Letra U
+  // Letra V
+  // Letra W
+  // Letra X
+  // Letra Y
+  // Letra Z
+  'zorra',
   // French added by Miguel Gargallo
   'abats',
   'abdos',
