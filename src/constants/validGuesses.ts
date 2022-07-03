@@ -33,6 +33,7 @@
   // Letra Q
   // Letra R
   // Letra S
+  'simio',
   'sofia',
   // Letra T
   'turia',
@@ -44,7 +45,6 @@
   // Letra Y
   // Letra Z
   // Respuestas posibles
-  // Palabras admitidas
   // Emojis
   '24🥖🥖🥖',
   '🍑culo',
