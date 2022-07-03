@@ -2,10 +2,6 @@
   // Melo Community added by the community and Miguel Gargallo
   export const VALID_GUESSES = [
   // Palabras admitidas
-  // Números
-  '24pan',
-  // Emojis
-  '☂️☂️☂️☂️☂️',
   // Letra A
   // Letra B
   'barbe',
@@ -48,6 +44,21 @@
   // Letra Y
   // Letra Z
   // Respuestas posibles
+  // Palabras admitidas
+  // Emojis
+  '24🥖🥖🥖',
+  '🍑culo',
+  'culo🍑',
+  '🏳️‍🌈free',
+  'free🏳️‍🌈',
+  '🏳️‍⚧️free',
+  'free🏳️‍⚧️',
+  '💦sexo',
+  'sexo💦',
+  '🍆sexo',
+  'sexo🍆',
+  '🤡joke',
+  'joke🤡',
   // Letra A
   'aaaaa',
   // Letra B

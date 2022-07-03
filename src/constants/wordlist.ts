@@ -1,5 +1,19 @@
 // Miguel Gargallo 2022 (c) All Rights Reserved.
 export const WORDS = [
+  // Emojis
+  '24🥖🥖🥖',
+  '🍑culo',
+  'culo🍑',
+  '🏳️‍🌈free',
+  'free🏳️‍🌈',
+  '🏳️‍⚧️free',
+  'free🏳️‍⚧️',
+  '💦sexo',
+  'sexo💦',
+  '🍆sexo',
+  'sexo🍆',
+  '🤡joke',
+  'joke🤡',
   // Letra A
   'aaaaa',
   // Letra B
