@@ -36,7 +36,6 @@ describe('getGuessStatuses', () => {
       'correct',
     ])
 
-    // https://github.com/miguelgargallo/melodle
     expect(getGuessStatuses('BOSSY', 'SASSY')).toEqual([
       'absent',
       'absent',
