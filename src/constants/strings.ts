@@ -16,9 +16,9 @@ export const WRONG_SPOT_MESSAGE = (guess: string, position: number) =>
   `Bobi, debe usar ${guess} in position ${position}`
 export const NOT_CONTAINED_MESSAGE = (letter: string) =>
   `Atente coño, debe contener ${letter}`
-export const ENTER_TEXT = 'Intro'
-export const DELETE_TEXT = 'Borra'
-export const STATISTICS_TITLE = 'Stats'
+export const ENTER_TEXT = '↩'
+export const DELETE_TEXT = '⌫'
+export const STATISTICS_TITLE = 'Melodle Stats'
 export const GUESS_DISTRIBUTION_TEXT = 'Distribucion posible'
 export const NEW_WORD_TEXT = 'Relaja la raja culito'
 export const SHARE_TEXT = 'Compartelo almenos'
