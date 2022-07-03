@@ -6,7 +6,7 @@ export const GAME_COPIED_MESSAGE = 'Juego copiado del portapeles'
 export const NOT_ENOUGH_LETTERS_MESSAGE = '¿Que fumas?'
 export const WORD_NOT_FOUND_MESSAGE = 'Ni de coña!!'
 export const HARD_MODE_ALERT_MESSAGE =
-  'Modo Dificil? Tolai ve al menu y activalo ahi!'
+  'Modo Dificil? Bua debes de limpiar las cookies si ya has empezado la partida y recargar la pagina!'
 export const HARD_MODE_DESCRIPTION =
   'Las pistas han de ser consecutivas, o pa tu casa'
 export const HIGH_CONTRAST_MODE_DESCRIPTION = 'Pa los daltonicos o amantes del minimalismo'

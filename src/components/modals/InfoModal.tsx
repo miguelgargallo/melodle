@@ -11,7 +11,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
   return (
     <BaseModal title="🍑 Cómo jugar culitos" isOpen={isOpen} handleClose={handleClose}>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        Adivina la palabra en 6 intentos. Después de cada intento, el color de las baldosas 
+        Adivina la palabra en el número de intentos posibles. Después de cada intento, el color de las baldosas 
         cambiará para mostrar lo cerca que estaba de la palabra.
       </p>
 
