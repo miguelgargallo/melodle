@@ -9,7 +9,7 @@ import { useState } from 'react'
 
 export const EmigratePanel = () => {
   const [isCopyButtonEnabled, setIsCopyButtonEnabled] = useState(true)
-  const [copyButtonText, setCopyButtonText] = useState('Copy')
+  const [copyButtonText, setCopyButtonText] = useState('Copiar')
   const stats = loadStats()
   const gameState = loadGameStateFromLocalStorage()
 

@@ -56,6 +56,7 @@ export const WORDS = [
   'pride',
   'prime',
   'pussy',
+  'porro',
   // Letra Q
   'queer',
   // Letra R

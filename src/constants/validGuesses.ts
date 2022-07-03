@@ -45,7 +45,7 @@
   // Letra Y
   // Letra Z
   // Respuestas posibles
-  // Emojis
+    // Emojis
   '24🥖🥖🥖',
   '🍑culo',
   'culo🍑',
@@ -101,12 +101,12 @@
   'pride',
   'prime',
   'pussy',
+  'porro',
   // Letra Q
   'queer',
   // Letra R
   'riley',
   // Letra S
-  'saoko',
   'sonia',
   'sinpa',
   'simba',
