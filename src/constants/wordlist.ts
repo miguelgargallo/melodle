@@ -63,7 +63,6 @@ export const WORDS = [
   'sinpa',
   // Letra T
   'tetis',
-  'tonta',
   // Letra U
   // Letra V
   // Letra W
