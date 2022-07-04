@@ -107,9 +107,6 @@
   // Letra R
   'riley',
   // Letra S
-  'sonia',
-  'simba',
-  'sinpa',
   // Letra T
   'tetis',
   'tonta',
