@@ -45,7 +45,7 @@
   // Letra Y
   // Letra Z
   // Respuestas posibles
-    // Emojis
+  // Emoji
   '24🥖🥖🥖',
   '🍑culo',
   'culo🍑',
@@ -107,6 +107,7 @@
   // Letra R
   'riley',
   // Letra S
+  
   // Letra T
   'tetis',
   'tonta',
