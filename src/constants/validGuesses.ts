@@ -47,7 +47,7 @@
   // Letra Y
   // Letra Z
   // Respuestas posibles
-  // Emoji
+  // Emojis
   '24🥖🥖🥖',
   '🍑culo',
   'culo🍑',
