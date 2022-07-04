@@ -64,6 +64,7 @@ export const WORDS = [
   // Letra S
   'sonia',
   'simba',
+  'sinpa',
   // Letra T
   'tetis',
   'tonta',
