@@ -38,7 +38,6 @@
     // Letra T
   'turia',
     // Letra U
-  'uurgh',
     // Letra V
     // Letra W
     // Letra X
