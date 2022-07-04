@@ -1,4 +1,6 @@
+// Miguel Gargallo 2022 (c) All Rights Reserved.
 export const WORDS = [
+  // Emojis
   '24🥖🥖🥖',
   '🍑culo',
   'culo🍑',
@@ -60,7 +62,8 @@ export const WORDS = [
   // Letra R
   'riley',
   // Letra S
-  'sinpa',
+  'sonia',
+  'simba',
   // Letra T
   'tetis',
   // Letra U
@@ -69,4 +72,5 @@ export const WORDS = [
   // Letra X
   // Letra Y
   // Letra Z
-  ]
+  'zorra',
+]
