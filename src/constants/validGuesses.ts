@@ -30,11 +30,13 @@
   // Letra Ñ
   // Letra O
   // Letra P
+  'pilar',
   // Letra Q
   // Letra R
   // Letra S
   'simio',
   'sofia',
+  'selis',
   // Letra T
   'turia',
   // Letra U
@@ -107,7 +109,7 @@
   // Letra R
   'riley',
   // Letra S
-  'selis',
+  'sinpa',
   // Letra T
   'tetis',
   'tonta',
@@ -9968,7 +9970,6 @@
   'lilao',
   'pilad',
   'pilan',
-  'pilar',
   'rilar',
   'milán',
   'silbe',
