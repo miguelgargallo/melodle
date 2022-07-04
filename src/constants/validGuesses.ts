@@ -30,7 +30,6 @@
   // Letra Ñ
   // Letra O
   // Letra P
-  'pilar',
   // Letra Q
   // Letra R
   // Letra S
@@ -10187,6 +10186,7 @@
   'cirro',
   'mirra',
   'pirre',
+  'pilar',
   'tirso',
   'mirto',
   'sirte',
