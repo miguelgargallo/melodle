@@ -107,7 +107,7 @@
   // Letra R
   'riley',
   // Letra S
-  
+  'selis',
   // Letra T
   'tetis',
   'tonta',
