@@ -67,6 +67,7 @@ export const WORDS = [
   'simba',
   // Letra T
   'tetis',
+  'tonta',
   // Letra U
   // Letra V
   // Letra W
