@@ -1,51 +1,6 @@
 // Miguel Gargallo 2022 (c) All Rights Reserved
   // Melo Community added by the community and Miguel Gargallo
   export const VALID_GUESSES = [
-    // Palabras admitidas
-    // Letra A
-    // Letra B
-  'barbe',
-  'belen',
-    // Letra C
-  'celos',
-  'coles',
-  'covid',
-    // Letra D
-    // Letra E
-  'ebola',
-    // Letra F
-    // Letra G
-    // Letra H
-    // Letra I
-    // Letra J
-  'judia',
-  'jesse',
-    // Letra K
-  'koito',
-    // Letra L
-    // Letra M
-  'murio',
-    // Letra N
-  'nathy',
-    // Letra Ñ
-    // Letra O
-    // Letra P
-    // Letra Q
-    // Letra R
-    // Letra S
-  'simio',
-  'sofia',
-    // Letra T
-  'turia',
-    // Letra U
-  'uurgh',
-    // Letra V
-    // Letra W
-    // Letra X
-    // Letra Y
-    // Letra Z
-    // Respuestas posibles
-      // Emojis
   '24🥖🥖🥖',
   '🍑culo',
   'culo🍑',
